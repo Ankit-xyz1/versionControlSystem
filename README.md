@@ -27,7 +27,7 @@ This is a learning project where I try to re-create the core ideas of Git from s
 
 1. Clone this repo  
    ```bash
-   git clone https://github.com/your-username/jsGit.git
+   git clone https://github.com/Ankit-xyz1/versionControlSystem
    cd jsGit
    node git.js init
    node git.js commit "message"
