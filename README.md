@@ -29,3 +29,5 @@ This is a learning project where I try to re-create the core ideas of Git from s
    ```bash
    git clone https://github.com/your-username/jsGit.git
    cd jsGit
+   node git.js init
+   node git.js commit "message"
