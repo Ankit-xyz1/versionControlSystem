@@ -31,3 +31,4 @@ This is a learning project where I try to re-create the core ideas of Git from s
    cd jsGit
    node git.js init
    node git.js commit "message"
+   you can run ts file (for ts fanns)
